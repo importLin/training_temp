@@ -50,6 +50,7 @@ def get_training_args():
 
 def main(args):
     print(args.model_name)
+    print(args.model_name)
 
 
 if __name__ == '__main__':

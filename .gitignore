@@ -1,2 +1,4 @@
 *.pth
+.idea
+_pycache-
 cifar-10-batches-py
